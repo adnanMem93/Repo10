@@ -7,6 +7,7 @@ var myClothes = {
 };
 
 function myFunction(myObj) {
+    
     var hatValue = myObj.hat;
     var shirtValue = myObj.shirt;
     var shoesValue = myObj.shoes;
